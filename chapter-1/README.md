@@ -10,6 +10,6 @@ There are two ways to scale up a software application: vertically (scale up) and
 
 While the term microservices has been around way before them, but companies like Google, Amazon, and Netflix have put microservice architecture in the spotlight. There are a lot of benefits of microservice architecture. For the purpose of this note, I will emphasize on two benefits: 
 - components of microservices run as an independent processes while all components of monolithic apps run as a single process
-![Monolithic vs Microservice](images/monolithic-vs-microservice.png){: width="60%" }
+![Monolithic vs Microservice](images/monolithic-vs-microservice.png {width=60%})
 - components of microservices allow us to develop, deploy, update, and scale each of them individually while components of monolithic apps have to be developed, deployed, updated, and scaled as a one entity
-![Scaling Out Microservice](images/scaling-out-microservice.png){: width="60%" }
+![Scaling Out Microservice](images/scaling-out-microservice.png {width=60%})
